@@ -1,0 +1,16 @@
+.card {
+	font-family: 'Noto Serif Oriya', serif;
+	margin-top: 12%;
+}
+
+a {
+	display: none;
+	text-align: center;
+	font-size: 18px;
+}
+
+.disclaimer {
+	display: none;
+	margin-top: 20%;
+	font-family: 'Marhey', cursive;
+}
